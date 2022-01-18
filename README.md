@@ -6,7 +6,7 @@ Dragonfly simulates the self-adaptive drone's behaviour with and without a wrapp
 ## Summary
 This repository contains all resources from Dragonfly, submitted to Artifacts track at SEAMS 2019. It consists of an executable simulator for self-adaptive drones, its source code and a demonstration video. This text provides instructions on how to use the simulator.
 
-As described in the camera ready paper in more details, the purpose of this artifact is to simulatE a drone flight between two hospitals to delivery an organ payload. By using this simulation, it is possible to observe the differences between the behaviours of the original implementation of the drone and the drone with a wrapper solution developed using aspect-oriented programming.
+As described in the camera ready paper in more details, the purpose of this artifact is to simulate a drone flight between two hospitals to delivery an organ payload. By using this simulation, it is possible to observe the differences between the behaviours of the original implementation of the drone and the drone with a wrapper solution developed using aspect-oriented programming.
 
 The simulator is implemented in Java, uses the JavaFX technology for the Graphical User Interface, and AspectJ for aspect implementation and weaving.
 
