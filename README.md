@@ -75,6 +75,13 @@ The final step consists of starting the execution of the application, by clickin
 
 By clicking on the "Restart" button, the user restarts the execution, i.e., the initial position and initial battery of the drones are restored and the user can start a new simulation.
 
+### 4) Wrappers
+
+- **Wrapper1**: address safe landing procedure by invoking actions like *Move Aside* and *Keep Flying*. 
+- **Wrapper2**: address bad connection situation by forcing the drone to glide for a while instead of automatically returning to home.
+- **Wrapper3**: implements the above two exceptional conditions at the same time.
+
+
 ## License
 
 This artifact is licensed under the BSD 2-Clause License; the artifact may not be used except in compliance with the License. Conditions to redistribute and use this artifact in source and binary forms, with or without modification, are detailed in LICENSE.md file.
