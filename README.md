@@ -77,7 +77,7 @@ By clicking on the "Restart" button, the user restarts the execution, i.e., the 
 
 ### 4) Wrappers
 
-- **Wrapper1**: address safe landing procedure by invoking actions like *Move Aside* and *Keep Flying*. 
+- **Wrapper1**: address safe landing procedure by invoking actions like *Move Aside* and *Keep Flying* to prevent drone from landing on water. 
 - **Wrapper2**: address bad connection situation by forcing the drone to glide for a while instead of automatically returning to home.
 - **Wrapper3**: implements the above two exceptional conditions at the same time.
 
